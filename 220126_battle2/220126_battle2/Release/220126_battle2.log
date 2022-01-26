@@ -1,0 +1,9 @@
+﻿  battle.cpp
+  pokemon.cpp
+C:\Users\tuna8\source\repos\220126_battle2\220126_battle2\Class\pokemon.cpp(55,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 145 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  220126_battle2.vcxproj -> C:\Users\tuna8\source\repos\220126_battle2\Release\220126_battle2.exe
